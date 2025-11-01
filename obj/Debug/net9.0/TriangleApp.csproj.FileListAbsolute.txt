@@ -1,0 +1,15 @@
+D:\P\Dev\Pattern\Dotnet\TriangleApp\TriangleApp\bin\Debug\net9.0\TriangleApp.exe
+D:\P\Dev\Pattern\Dotnet\TriangleApp\TriangleApp\bin\Debug\net9.0\TriangleApp.deps.json
+D:\P\Dev\Pattern\Dotnet\TriangleApp\TriangleApp\bin\Debug\net9.0\TriangleApp.runtimeconfig.json
+D:\P\Dev\Pattern\Dotnet\TriangleApp\TriangleApp\bin\Debug\net9.0\TriangleApp.dll
+D:\P\Dev\Pattern\Dotnet\TriangleApp\TriangleApp\bin\Debug\net9.0\TriangleApp.pdb
+D:\P\Dev\Pattern\Dotnet\TriangleApp\TriangleApp\obj\Debug\net9.0\TriangleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\P\Dev\Pattern\Dotnet\TriangleApp\TriangleApp\obj\Debug\net9.0\TriangleApp.AssemblyInfoInputs.cache
+D:\P\Dev\Pattern\Dotnet\TriangleApp\TriangleApp\obj\Debug\net9.0\TriangleApp.AssemblyInfo.cs
+D:\P\Dev\Pattern\Dotnet\TriangleApp\TriangleApp\obj\Debug\net9.0\TriangleApp.csproj.CoreCompileInputs.cache
+D:\P\Dev\Pattern\Dotnet\TriangleApp\TriangleApp\obj\Debug\net9.0\TriangleApp.sourcelink.json
+D:\P\Dev\Pattern\Dotnet\TriangleApp\TriangleApp\obj\Debug\net9.0\TriangleApp.dll
+D:\P\Dev\Pattern\Dotnet\TriangleApp\TriangleApp\obj\Debug\net9.0\refint\TriangleApp.dll
+D:\P\Dev\Pattern\Dotnet\TriangleApp\TriangleApp\obj\Debug\net9.0\TriangleApp.pdb
+D:\P\Dev\Pattern\Dotnet\TriangleApp\TriangleApp\obj\Debug\net9.0\TriangleApp.genruntimeconfig.cache
+D:\P\Dev\Pattern\Dotnet\TriangleApp\TriangleApp\obj\Debug\net9.0\ref\TriangleApp.dll
